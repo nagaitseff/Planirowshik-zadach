@@ -1,15 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
 	<ConfigVersions>
-		<Metadata name="Catalog.ДниНедели" id="16dfc5b2-5763-469d-a11c-0e2ab2a911d2" configVersion="1dc140528c5ccc47bfa475d8991c1aa500000000"/>
-		<Metadata name="Catalog.ДниНедели.Form.ФормаВыбора" id="95de7fb7-1d09-41c0-a273-450f416b8027" configVersion="6c768e7795e6b04ab8f3f52ec5326f4500000000"/>
-		<Metadata name="Catalog.ДниНедели.Form.ФормаВыбора.Form" id="95de7fb7-1d09-41c0-a273-450f416b8027.0" configVersion="7aeb41e1ff417349b8ebf383b50c6df600000000"/>
+		<Metadata name="Catalog.ДниНедели" id="16dfc5b2-5763-469d-a11c-0e2ab2a911d2" configVersion="e3815340453b1a4088976671fd53a85800000000"/>
+		<Metadata name="Catalog.ДниНедели.Form.ФормаВыбора" id="95de7fb7-1d09-41c0-a273-450f416b8027" configVersion="11df0655ad131b4396477da74a9c913200000000"/>
+		<Metadata name="Catalog.ДниНедели.Form.ФормаВыбора.Form" id="95de7fb7-1d09-41c0-a273-450f416b8027.0" configVersion="cd18082ec6aea24f9676433cf763043900000000"/>
+		<Metadata name="Catalog.ДниНедели.Form.ФормаСписка" id="4bcbf725-e4fc-41b8-b739-356885160a4b" configVersion="cc9fe06f420ffc4ebd282b7a59ccedbe00000000"/>
+		<Metadata name="Catalog.ДниНедели.Form.ФормаСписка.Form" id="4bcbf725-e4fc-41b8-b739-356885160a4b.0" configVersion="1b301b3e1027b740b0548b8538c2fded00000000"/>
 		<Metadata name="Catalog.ДниНедели.Predefined" id="16dfc5b2-5763-469d-a11c-0e2ab2a911d2.1c" configVersion="4527c7bfbe810c4096e9bdf3e199de9c00000000"/>
-		<Metadata name="Catalog.Месяцы" id="f62fe701-ab29-4291-baf7-001751d62380" configVersion="e3992e067585d7488c46b42cade5100900000000"/>
-		<Metadata name="Catalog.СписокДелНаРаботе" id="f92cb67f-033b-4c6d-a0c7-514ebfe3e9b6" configVersion="bcb97260edcb38499685ca0f680cd1c200000000"/>
+		<Metadata name="Catalog.Месяцы" id="f62fe701-ab29-4291-baf7-001751d62380" configVersion="7d16c7119cf88646aa302f94d75e8b5e00000000"/>
+		<Metadata name="Catalog.Месяцы.Form.ФормаВыбора" id="1924a25b-84f5-43bf-ad41-379d475b0c9c" configVersion="14b6f3f4f54b6043a731daa27a1fd62f00000000"/>
+		<Metadata name="Catalog.Месяцы.Form.ФормаВыбора.Form" id="1924a25b-84f5-43bf-ad41-379d475b0c9c.0" configVersion="8f661be1cead0f4896a1aed07b707ee600000000"/>
+		<Metadata name="Catalog.Месяцы.Form.ФормаСписка" id="6fa759da-f107-405e-bab7-faba93e38a7d" configVersion="731ca402c410a24785e3fcd661856eaf00000000"/>
+		<Metadata name="Catalog.Месяцы.Form.ФормаСписка.Form" id="6fa759da-f107-405e-bab7-faba93e38a7d.0" configVersion="4ba19633d195644f8391688b6f088a9b00000000"/>
+		<Metadata name="Catalog.Месяцы.Predefined" id="f62fe701-ab29-4291-baf7-001751d62380.1c" configVersion="f18759b3887cc444af6d3f5e2d83dbbc00000000"/>
+		<Metadata name="Catalog.СписокДелНаРаботе" id="f92cb67f-033b-4c6d-a0c7-514ebfe3e9b6" configVersion="5a9b89749d806b4c87254282026dd9db00000000"/>
 		<Metadata name="CommonForm.Планировщик" id="d390eac6-9c75-4208-b7ff-35ca60079936" configVersion="b44e6e7e21458341986e3ece85f9215200000000"/>
 		<Metadata name="CommonForm.Планировщик.Form" id="d390eac6-9c75-4208-b7ff-35ca60079936.0" configVersion="94a98f56d8f819408e0f95d0a9253e8e00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="c89ea0be-abd3-4bec-927d-7f8c69acdac5" configVersion="dea7ad3dbf15ed4aa188b98ad8a7187500000000"/>
+		<Metadata name="CommonModule.ПодпискаНаСобытиеРедактированиеСправочников" id="9522ff60-2ac8-40f9-82b0-69c6ae5de47e" configVersion="4ff3382603af924b95d93837077b7f6300000000"/>
+		<Metadata name="CommonModule.ПодпискаНаСобытиеРедактированиеСправочников.Module" id="9522ff60-2ac8-40f9-82b0-69c6ae5de47e.0" configVersion="ebf5127d3795dc4cb671f6730ea5f27900000000"/>
+		<Metadata name="Configuration.Конфигурация" id="c89ea0be-abd3-4bec-927d-7f8c69acdac5" configVersion="ceb54ffaed4ee241b95cc98ae464b3a500000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="a91364ea-8bc5-4dee-8e0d-06c5f5cb83cc.8" configVersion="2585c844d6ec9847856d31c35a98fe7300000000"/>
 		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="a91364ea-8bc5-4dee-8e0d-06c5f5cb83cc.6" configVersion="6559cfe51184ca4dbb56adcfbab9a0ca00000000"/>
 		<Metadata name="Document.ГрафикРаботы" id="24668818-e491-491b-92a6-8707233f8275" configVersion="2535dcf2a5dd3841b804b5eb8f3a375200000000">
@@ -21,6 +30,7 @@
 		</Metadata>
 		<Metadata name="Document.ГрафикРаботы.Form.ФормаСписка" id="9d34bedc-09b8-42be-986d-8843a7c92ed0" configVersion="bd93df82eec0c944ab7cad2e60d127f300000000"/>
 		<Metadata name="Document.ГрафикРаботы.Form.ФормаСписка.Form" id="9d34bedc-09b8-42be-986d-8843a7c92ed0.0" configVersion="46bc0080b09e734f8eae3eadb6fb69d600000000"/>
+		<Metadata name="EventSubscription.ПодпискаНаСобытиеРедактированиеСправочников" id="286d0255-8951-4258-834e-64e24b6b03e8" configVersion="bda7330c36458449be516e32379e3d0f00000000"/>
 		<Metadata name="Language.Русский" id="638b2c3d-0229-4294-98a0-7f301dd9a921" configVersion="78e0c4c4353c0f4c900c4e6387deddf700000000"/>
 		<Metadata name="Subsystem.ВсеОбъекты" id="a8ca73b8-0a2b-4a76-b860-a14e63905a2b" configVersion="ca74404fcfb38f43bc9a992ca194d87500000000"/>
 	</ConfigVersions>

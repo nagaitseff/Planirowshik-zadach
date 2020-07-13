@@ -184,6 +184,8 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>ВсеОбъекты</Subsystem>
+			<CommonModule>ПодпискаНаСобытиеРедактированиеСправочников</CommonModule>
+			<EventSubscription>ПодпискаНаСобытиеРедактированиеСправочников</EventSubscription>
 			<CommonForm>Планировщик</CommonForm>
 			<Catalog>ДниНедели</Catalog>
 			<Catalog>Месяцы</Catalog>
