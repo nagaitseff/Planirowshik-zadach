@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="Catalog.ДниНедели" id="16dfc5b2-5763-469d-a11c-0e2ab2a911d2" configVersion="1dc140528c5ccc47bfa475d8991c1aa500000000"/>
+		<Metadata name="Catalog.ДниНедели.Form.ФормаВыбора" id="95de7fb7-1d09-41c0-a273-450f416b8027" configVersion="6c768e7795e6b04ab8f3f52ec5326f4500000000"/>
+		<Metadata name="Catalog.ДниНедели.Form.ФормаВыбора.Form" id="95de7fb7-1d09-41c0-a273-450f416b8027.0" configVersion="7aeb41e1ff417349b8ebf383b50c6df600000000"/>
+		<Metadata name="Catalog.ДниНедели.Predefined" id="16dfc5b2-5763-469d-a11c-0e2ab2a911d2.1c" configVersion="4527c7bfbe810c4096e9bdf3e199de9c00000000"/>
+		<Metadata name="Catalog.Месяцы" id="f62fe701-ab29-4291-baf7-001751d62380" configVersion="e3992e067585d7488c46b42cade5100900000000"/>
+		<Metadata name="Catalog.СписокДелНаРаботе" id="f92cb67f-033b-4c6d-a0c7-514ebfe3e9b6" configVersion="bcb97260edcb38499685ca0f680cd1c200000000"/>
+		<Metadata name="CommonForm.Планировщик" id="d390eac6-9c75-4208-b7ff-35ca60079936" configVersion="b44e6e7e21458341986e3ece85f9215200000000"/>
+		<Metadata name="CommonForm.Планировщик.Form" id="d390eac6-9c75-4208-b7ff-35ca60079936.0" configVersion="94a98f56d8f819408e0f95d0a9253e8e00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="c89ea0be-abd3-4bec-927d-7f8c69acdac5" configVersion="dea7ad3dbf15ed4aa188b98ad8a7187500000000"/>
+		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="a91364ea-8bc5-4dee-8e0d-06c5f5cb83cc.8" configVersion="2585c844d6ec9847856d31c35a98fe7300000000"/>
+		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="a91364ea-8bc5-4dee-8e0d-06c5f5cb83cc.6" configVersion="6559cfe51184ca4dbb56adcfbab9a0ca00000000"/>
+		<Metadata name="Document.ГрафикРаботы" id="24668818-e491-491b-92a6-8707233f8275" configVersion="2535dcf2a5dd3841b804b5eb8f3a375200000000">
+			<Metadata name="Document.ГрафикРаботы.TabularSection.ГрафикРаботы.Attribute.ЗаданиеНачальника" id="171e1a3a-e24b-4006-92a0-121414192efa"/>
+			<Metadata name="Document.ГрафикРаботы.TabularSection.ГрафикРаботы.Attribute.Время" id="24090ea0-0a5c-4a72-81cf-0f5c7ab2067b"/>
+			<Metadata name="Document.ГрафикРаботы.TabularSection.ГрафикРаботы.Attribute.СписокДел" id="527014af-e5be-4c37-80ee-2f6b617ddb43"/>
+			<Metadata name="Document.ГрафикРаботы.TabularSection.ГрафикРаботы" id="b6375c89-d947-4f97-ba45-2b5d4eaf3ac4"/>
+			<Metadata name="Document.ГрафикРаботы.TabularSection.ГрафикРаботы.Attribute.Комментарии" id="fbeb4363-7a37-4952-9dfd-777a878f3b80"/>
+		</Metadata>
+		<Metadata name="Document.ГрафикРаботы.Form.ФормаСписка" id="9d34bedc-09b8-42be-986d-8843a7c92ed0" configVersion="bd93df82eec0c944ab7cad2e60d127f300000000"/>
+		<Metadata name="Document.ГрафикРаботы.Form.ФормаСписка.Form" id="9d34bedc-09b8-42be-986d-8843a7c92ed0.0" configVersion="46bc0080b09e734f8eae3eadb6fb69d600000000"/>
+		<Metadata name="Language.Русский" id="638b2c3d-0229-4294-98a0-7f301dd9a921" configVersion="78e0c4c4353c0f4c900c4e6387deddf700000000"/>
+		<Metadata name="Subsystem.ВсеОбъекты" id="a8ca73b8-0a2b-4a76-b860-a14e63905a2b" configVersion="ca74404fcfb38f43bc9a992ca194d87500000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

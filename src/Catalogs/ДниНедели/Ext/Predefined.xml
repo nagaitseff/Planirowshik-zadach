@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.10">
+	<Item id="9d8c8ac5-63e5-4e05-9e4b-32c3d83bbc75">
+		<Name>Понедельник</Name>
+		<Code/>
+		<Description>Понедельник</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="fb2bf71a-5bff-42dc-8b83-1b86c9a9e48a">
+		<Name>Вторник</Name>
+		<Code/>
+		<Description>Вторник</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="96e2c224-27ca-4a78-a0e6-655a79ecf396">
+		<Name>Среда</Name>
+		<Code/>
+		<Description>Среда</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="6d7599fe-4768-47b2-9070-8c916d57242c">
+		<Name>Четверг</Name>
+		<Code/>
+		<Description>Четверг</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="147131e5-7e53-4d6f-a530-78ebcb8248b5">
+		<Name>Пятница</Name>
+		<Code/>
+		<Description>Пятница</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="41aafef6-ae5a-48ac-ac19-22b7e0155b68">
+		<Name>Суббота</Name>
+		<Code/>
+		<Description>Суббота</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="bce41a25-7e55-4bef-bbd6-fc5938d4200e">
+		<Name>Воскресенье</Name>
+		<Code/>
+		<Description>Воскресенье</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
